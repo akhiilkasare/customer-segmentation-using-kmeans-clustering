@@ -1,3 +1,7 @@
+# Customer segmentation using K-means clustering
+
+![customer segmentation](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/R-project-customer-segmentation.png)
+
 #### What is customer segmentation ?
 
 - You’ve often heard a saying that customer is the king. In today’s world customer is indeed the king  and hence its not only important to retain our loyal customers but also to win back one’s who are on the verge of churning out.
