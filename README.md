@@ -2,7 +2,7 @@
 
 ![customer segmentation](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/R-project-customer-segmentation.png)
 
-#### What is customer segmentation ?
+## What is segmentation ?
 
 - You’ve often heard a saying that customer is the king. In today’s world customer is indeed the king  and hence its not only important to retain our loyal customers but also to win back one’s who are on the verge of churning out.
 
@@ -12,7 +12,7 @@ In this we will see how to perform customer segmentation using machine learning
 
 We well aslo create clusters according to the customers spending behaviour. We will also create clusters of most loyal customers and the customers who are on the verge of churning out
 
-What is customer segmentation ?
+## What is customer segmentation ?
 
 -Its a methodology with which we can  divide our customers base into group of individuals who are similar in the terms of gender/ spending behaviour/ frequency to visit/ age or other demographics. 
 
