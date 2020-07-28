@@ -14,7 +14,7 @@ We well aslo create clusters according to the customers spending behaviour. We w
 
 ## What is customer segmentation ?
 
--Its a methodology with which we can  divide our customers base into group of individuals who are similar in the terms of gender/ spending behaviour/ frequency to visit/ age or other demographics. 
+- Its a methodology with which we can  divide our customers base into group of individuals who are similar in the terms of gender/ spending behaviour/ frequency to visit/ age or other demographics. 
 
 - Customer segmentation allows the company to precisely target the customers who has specific needs and desires. In this way companies can targetted campaings to the right groups or audience. It may also be the case that during the creation of this groups/ clusters companies can identify new group or segments on which companies can focus more as it might be more lucrative.
 
