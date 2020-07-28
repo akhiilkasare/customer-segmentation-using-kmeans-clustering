@@ -1,9 +1,8 @@
-# customer-segmentation-using-kmeans-clustering
-What is customer segmentation ?
+#### What is customer segmentation ?
 
 - You’ve often heard a saying that customer is the king. In today’s world customer is indeed the king  and hence its not only important to retain our loyal customers but also to win back one’s who are on the verge of churning out.
 
-Customer segmentation is the one method to check who are loyal customers and who are the ones who visit the platform or our e-commerce website infrequently or the ones who just visit the website just for the sake of reediming some coupons or getting some discounts or we can also say them as the one time visitor 
+**Customer segmentation** is the one method to check who are loyal customers and who are the ones who visit the platform or our e-commerce website infrequently or the ones who just visit the website just for the sake of reediming some coupons or getting some discounts or we can also say them as the one time visitor 
 
 In this we will see how to perform customer segmentation using machine learning
 
@@ -17,22 +16,22 @@ What is customer segmentation ?
 
 - Using customer segmentation companies can identify groups that requires extreme attention such that people in that group are on the verge of churning out. There might be a group/ segment who can have highest potential or value
 
-To Segment Customers we need to calculate : 
+**To Segment Customers we need to calculate :**  
 
 1. RFM(Recency Frequency Monetary) score of each customer.
 2. Create cluster using K-means.
 
 Now you must be wondering what are the different groups/ segments that can be created based on RFM scoring and k-mean clustering 
 
-For example:
+***For example:***
 
 According to the business requirement a company can create 3 segments like : 
 
-HIGH :  Group who buys often, spends more and visited the platform frequently.
+**HIGH** :  Group who buys often, spends more and visited the platform frequently.
 
-MEDIUM : Group which spends less than high group and is not that much frequent to visit the platform.
+**MEDIUM** : Group which spends less than high group and is not that much frequent to visit the 				platform.
 
-LOW : Group which is on the verge of churning out.
+**LOW** : Group which is on the verge of churning out.
 
 To calculate the RFM score we will be using the Online Retail Dataset which can be downloaded from the UCI Machine Learning Repository. 
 
@@ -46,3 +45,6 @@ UnitPrice
 CustomerID
 Country
 
+## After applying the unsupervised k-means clustering algorithm
+## Motivation
+## The right approach to segmentation analysis is to segment customers into groups based on predictions regarding their total future value to the company, with the goal of addressing each group (or individual) in the way most likely to maximize that future, or lifetime, value.
