@@ -46,5 +46,7 @@ CustomerID
 Country
 
 ## After applying the unsupervised k-means clustering algorithm
+![Customer Segmentation](https://github.com/akhiilkasare/customer-segmentation-using-kmeans-clustering/blob/master/customer_segmentation_plot.png)
+
 ## Motivation
 ## The right approach to segmentation analysis is to segment customers into groups based on predictions regarding their total future value to the company, with the goal of addressing each group (or individual) in the way most likely to maximize that future, or lifetime, value.
